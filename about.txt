@@ -1,0 +1,4 @@
+Name: D.Abhinaya
+Course: Bsc Data Science
+GitHub is a platform for hosting, sharing, and collaborating on code using Git version control.
+ 
